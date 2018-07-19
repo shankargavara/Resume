@@ -139,7 +139,7 @@ function achieve(ach){
   var hr = document.createElement("hr");
   child2.appendChild(hr);
 
-  for(i=0;i<ach.length;i++){
+  for(j=0;j<ach.length;j++){
     var eduul = document.createElement("ul");
     var eduli = document.createElement("li");
     eduli.textContent = ach[i].data;
