@@ -1,0 +1,42 @@
+{
+	"basics": {
+		"image": "shankar.png",
+		"name": "ShankarGavara",
+		"phoneno": "8919619560",
+		"email": "shankargavara1999@gamil.com",
+		"address": "SRKR college,Bhimavaram."
+	},
+	"CareerObjective": {
+		"info": "https://www.monsterindia.com/career-advice/best-jobs-for-your-health-make-a-healthy-career-choice-6599.html?spl=IN_contmar_Top_Nav_network_6599&WT.mc_n=olm_sk_Top_Nav_network_6599_contmar_IN"
+	},
+	"education": [{
+			"degree": "Btech",
+			"group": "CSE",
+			"institute": "SRKRengineering college",
+			"data": ["2016-2020", "89%"]
+		},
+		{
+			"degree": "Intermediate",
+			"group": "MPC",
+			"institute": "pragati junior college",
+			"data": ["2014-2016", "97%"]
+		},
+		{
+			"degree": "ssc",
+			"institute": "akshara public school",
+			"data": ["2014", "89%"]
+		}
+	],
+"skills":[{
+"title":"langauges",
+"data":["c","c++","java","javascript","python"]
+},
+{"title":"database",
+"data":["sql","mysql","oracle"]
+},
+{
+  "title":"operating systems",
+  "data":["linux","windows"]
+}
+]
+}
